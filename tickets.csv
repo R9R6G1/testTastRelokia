@@ -1,0 +1,23 @@
+"Ticket ID",Description,Status,Priority,"Agent ID","Agent Name","Agent Email","Contact ID","Group ID"
+1,"Hi there,
+
+I’m sending an email because I’m having a problem setting up your new product. Can you help me troubleshoot?
+
+Thanks,
+ The Customer
+
+",open,normal,17824541861521,17824541861521,17824585404433,17824577130769
+2,"Hi Camila, when I connect my bluetooth headphones before my meeting I can hear everyone but they can’t hear me.
+
+This hasn’t happened before, can you fix this issue?",open,normal,17824541861521,17824541861521,17824649389201,17824577130769
+3,"Hi, my chat function isn’t working during my meetings. I can’t see or participate in any conversations.",open,normal,17824541861521,17824541861521,17824693371793,17824577130769
+4,"Hi there, I keep missing calls because I don’t receive an alert when a coworker calls me. My notifications are on, so I don’t understand what the problem could be.",open,normal,17824541861521,17824541861521,17824677150225,17824577130769
+5,"Hi there, is there a way that I could save the chat conversations from a meeting?",open,normal,17824541861521,17824541861521,17824693478417,17824577130769
+6,"Hi there, I’d like to know if there is a live captioning feature available? Since most of my employees work from home, I want to ensure that all meetings are inclusive and accessible for everyone.",open,normal,17824541861521,17824541861521,17824693534225,17824577130769
+7,"Hello, my team and I can’t join a meeting but I’ve been able to join it using the same link in the past. When we click on the link I get an error saying Meeting Unavailable. Please resolve this issue quickly.",open,normal,17824541861521,17824541861521,17824685735569,17824577130769
+8,"Hello, I’m trying to reset my MeetMeThere password. I was supposed to get an email with instructions but my inbox is empty. My IT department said I should contact you.",open,normal,17824541861521,17824541861521,17824663583889,17824577130769
+9,"Hi, how can I change my video background back to “normal”? This is kind of urgent, I have an important call in a couple of minutes and I cannot remove my cat’s picture from behind me.",open,normal,17824541861521,17824541861521,17824649790865,17824577130769
+10,"Hi, our employees have been complaining that when they join a call, their videos are on by default. Is there any way that we could have videos be off when joining a call?",open,normal,17824541861521,17824541861521,17824671891473,17824577130769
+11,"Hey there, I want to use the blurred background feature but don’t know how to turn it on.",open,normal,17824541861521,17824541861521,17824685945873,17824577130769
+12,"Morning, I’m an IT admin at Jansen&Co. I’m just setting up MeetMeThere accounts for our employees. The problem is that we have over 900 of them. Is there any way that I can add them in bulk?",open,normal,17824541861521,17824541861521,17824672001809,17824577130769
+13,"Hey there, I’ve looked through admin settings and can’t find if there’s a way for teammates can mute other call participants (apparently, one of their teammates works next to a construction site and always forgets to go on mute)?",open,normal,17824541861521,17824541861521,17824686048529,17824577130769
